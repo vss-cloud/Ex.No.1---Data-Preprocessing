@@ -62,6 +62,7 @@ sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
 
+
 ## OUTPUT:
 / Show the result/
 ![191889296-d58e09f3-a16d-469b-9369-301e5480a575](https://user-images.githubusercontent.com/63903041/227828738-8a74dd7c-4dc8-4a28-b39c-535389e39a2c.jpg)
